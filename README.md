@@ -1,7 +1,4 @@
-Fork for your Telegram Blog
-=============
+# OverResponse Blog #
 
-
-This is a template that you can fork into your own GitHub account
-and then point [Telegram](https://telegr.am) at your
-repository to your GitHub repo so you can publish your blog.
+This repo contains markdown files from which [OverResponse](http://blog.overresponse.com) blog
+is built. Using [Telegram](https://telegr.am)
